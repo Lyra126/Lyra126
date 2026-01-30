@@ -2,7 +2,7 @@
 <h3 align="center">A 4th Year CS Major at University of Florida</h3>
 
 <strong>Favorite Projects: </strong>
-- [Wing.it](https://github.com/rachel-pu/WiNG-it) : a career dev tool platform centered around empowering our users, no matter the major or experience levels to excell professionally (Test it out [here](https://wing-it.space/))
+- [Wing.it](https://wing-it.space/) : a career dev tool platform centered around empowering our users, no matter the major or experience levels to excell professionally (Test it out [here](https://wing-it.space/))
 - [Georgia Tech Hackathon:](https://devpost.com/software/codeblue?ref_content=my-projects-tab&ref_feature=my_projects) [Code Blue](https://github.com/Lyra126/gt-hacks) : a platform that reduces clinical trial dropout by empowering patients with personalized dashboards and AI support while giving coordinators real-time insights to strengthen communication and improve outcomes
 - [Discord Pitch Comp: Boba Cat](https://github.com/Lyra126/boba-cat) : my submission to the Discord Pitch 2024 competition! My first game dev experience
 - [teamTech23-24](https://github.com/Lyra126/teamTech23-24) : the code base for UF SWE's design team, Team Tech, project on a multi-objective genetic algorithm for a satellite scheduler
